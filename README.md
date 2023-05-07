@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm brand new to software development! 
+
+I'm sitting here watching advances in AI and wondering if I chose the worst time possible to change my field of work.
